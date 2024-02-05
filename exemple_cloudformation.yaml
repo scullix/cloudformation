@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2024-01-01
+AWSTemplateFormatVersion: 2010-09-09
 
 Parameters:
   EnvironmentName:
